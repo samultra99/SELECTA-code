@@ -11,4 +11,6 @@ How to run SELECTA (my game) for testing:
 4. The game should now be running! 
 5. TO UPLOAD A NEW SONG: Press the right arrow key twice from the Main Menu and navigate to the dock where a new executable will have appeared. Select a song and then wait whilst it processes in the background. When it is done, the game will return to the main menu and you can select the song from the Quick Play list. Please see the known bug below, although it probably won't happen on your machine - it only seems to happen on mine!
 
+Important: If you want to look at Player Performance data you can go into the player_lib file that is generated after at least one level has been fully completed.
+
 Known Bug: Sometimes, when the song analysis process is happening in the background, it is interrupted by additional executables popping up asking you to select more songs to analyse. If this happens (it shouldn't) just click OK and then Cancel on each file selection box.
