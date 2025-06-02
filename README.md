@@ -1,5 +1,7 @@
 # Final-Project-SELECTA
 
+Important: The game in its final form only supports MP3 files sadly.
+
 Important: You do not need a controller to play. You can use the Left, Down and Right arrow keys as an alternative. In menus, X is Right arrow and Square is Down arrow. Even if you are using a controller, a keyboard is required to navigate the Quick Play menu.
 
 How to run SELECTA (my game) for testing:
