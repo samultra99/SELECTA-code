@@ -2,7 +2,7 @@
 
 See important notes at the bottom.
 Video demo is here: https://youtu.be/oIxJC3Q_O1s
-Link to download game executable, analysis executable and .command file is here:
+Link to download game executable, analysis executable and .command file is here: https://drive.google.com/drive/folders/1sitiBymjwwlvl3NGQYidzOp2Bd0OUHm1?usp=sharing
 
 How to run SELECTA (my game) for testing:
 1. Create a folder called 'AudioAnalysisData' in your user's home directory: /Users/[your username]/AudioAnalysisData
