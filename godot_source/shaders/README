@@ -1,0 +1,2 @@
+The main shader of interest is the audio_waves.gdshader which is the audio-reactive background shader. 
+This is controlled by the GDScript file 'audio_waves_bg.gd'.
